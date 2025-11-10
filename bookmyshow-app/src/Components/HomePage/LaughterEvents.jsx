@@ -10,7 +10,7 @@ export const LaughterEvents = () => {
     return (
         <div className={styles.parent}>
             <div className={styles.parent__text}>
-                <h1>Laughter Events</h1>
+                <h1>Laughter events</h1>
             </div>
             <CommonCarousel events={laughter_events} />
         </div>
